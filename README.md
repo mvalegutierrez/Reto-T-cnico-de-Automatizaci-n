@@ -1,2 +1,2 @@
-# Reto-T-cnico-de-Automatizaci-n-Choucair
+# Reto-Tecnico-de-Automatizacion
 Prueba tecnica de candidatos Choucair-
